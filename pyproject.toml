@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gb-persona-paper-reproducibility"
+version = "1.0.0"
+description = "Offline reproduction package for the GB-Persona WorldValuesBench experiments"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+  "matplotlib==3.9.2",
+  "numpy==1.26.3",
+  "pandas==2.2.3",
+  "scikit-learn==1.6.1",
+]
+
+[project.scripts]
+gb-persona-reproduce = "gb_persona.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+

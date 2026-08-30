@@ -1,0 +1,44 @@
+{
+  "experiment": {
+    "dataset": "WorldValuesBench",
+    "model": "google/gemma-4-26b-a4b-it",
+    "endpoint": "OpenAI-compatible OpenRouter endpoint",
+    "temperature": 0.7,
+    "top_p": 1.0,
+    "max_output_tokens": 32,
+    "responses_per_persona_question": 8,
+    "calibration_questions": 20,
+    "test_questions": 20,
+    "persona_pool_size": 128,
+    "nested_subset_size": 64,
+    "nested_subset_rule": "first 64 personas in the frozen 128-persona order"
+  },
+  "gb_persona": {
+    "behavior_distance": "mean normalized ordinal Wasserstein-1",
+    "jeffreys_alpha": 0.5,
+    "lambda": 0.25,
+    "tail_quantile": 0.8,
+    "minimum_child_size": 2
+  },
+  "evaluation": {
+    "128": {"requested_budgets": [4, 8, 16, 32]},
+    "64": {"requested_budgets": [2, 4, 8, 16]},
+    "baseline_count_rule": "match GB-Persona actual K at each requested budget",
+    "random_seeds": [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26],
+    "kmeans_n_init": 10,
+    "density_peaks_dc_quantile": 0.02,
+    "dbscan_min_samples": 2,
+    "demographic_stratum": "country_region"
+  },
+  "reported_methods": [
+    "GB-Persona",
+    "K-means",
+    "Weighted Random",
+    "Demographic Stratified",
+    "Density Peaks",
+    "DBSCAN",
+    "Spectral Clustering",
+    "Behavior K-medoids"
+  ]
+}
+

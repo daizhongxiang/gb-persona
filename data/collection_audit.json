@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "dataset": "WorldValuesBench",
+  "model": "google/gemma-4-26b-a4b-it",
+  "endpoint": "OpenAI-compatible OpenRouter endpoint",
+  "generation_parameters": {
+    "temperature": 0.7,
+    "top_p": 1.0,
+    "max_output_tokens": 32
+  },
+  "persona_count": 128,
+  "calibration_question_count": 20,
+  "test_question_count": 20,
+  "responses_per_persona_question": 8,
+  "valid_calibration_responses": 20480,
+  "valid_test_responses": 20480,
+  "total_response_slots": 40960,
+  "total_api_attempts": 40987,
+  "attempt_summary": [
+    {
+      "mode": "formal",
+      "outcome": "success",
+      "error_type": "",
+      "count": 20480
+    },
+    {
+      "mode": "test",
+      "outcome": "success",
+      "error_type": "",
+      "count": 20480
+    },
+    {
+      "mode": "test",
+      "outcome": "transport_error",
+      "error_type": "ConnectionError",
+      "count": 12
+    },
+    {
+      "mode": "test",
+      "outcome": "transport_error",
+      "error_type": "SSLError",
+      "count": 15
+    }
+  ],
+  "missing_slots": 0,
+  "duplicate_slots": 0,
+  "invalid_label_slots": 0,
+  "privacy": {
+    "original_wvs_interview_ids_included": false,
+    "survey_answers_included": false,
+    "release_persona_id_rule": "frozen row order mapped to P001-P128"
+  }
+}

@@ -1,0 +1,1017 @@
+[
+  {
+    "question_id": "Q8",
+    "text": "On a scale of 1 to 2, 1 meaning 'Yes' and 2 meaning 'No', is it especially important that children are encouraged to learn independence at home?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Important"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Not mentioned"
+      }
+    ]
+  },
+  {
+    "question_id": "Q10",
+    "text": "On a scale of 1 to 2, 1 meaning 'Yes' and 2 meaning 'No', is it especially important that children are encouraged to learn a feeling of responsibility at home?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Important"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Not mentioned"
+      }
+    ]
+  },
+  {
+    "question_id": "Q15",
+    "text": "On a scale of 1 to 2, 1 meaning 'Yes' and 2 meaning 'No', is it especially important that children are encouraged to learn religious faith at home?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Important"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Not mentioned"
+      }
+    ]
+  },
+  {
+    "question_id": "Q16",
+    "text": "On a scale of 1 to 2, 1 meaning 'Yes' and 2 meaning 'No', is it especially important that children are encouraged to learn unselfishness at home?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Important"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Not mentioned"
+      }
+    ]
+  },
+  {
+    "question_id": "Q17",
+    "text": "On a scale of 1 to 2, 1 meaning 'Yes' and 2 meaning 'No', is it especially important that children are encouraged to learn obedience at home?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Important"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Not mentioned"
+      }
+    ]
+  },
+  {
+    "question_id": "Q19",
+    "text": "On a scale of 1 to 2, 1 meaning 'Yes' and 2 meaning 'No', would you be uncomfortable having people of a different race as neighbors?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Mentioned"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Not mentioned"
+      }
+    ]
+  },
+  {
+    "question_id": "Q20",
+    "text": "On a scale of 1 to 2, 1 meaning 'Yes' and 2 meaning 'No', would you be uncomfortable having people who have AIDS as neighbors?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Mentioned"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Not mentioned"
+      }
+    ]
+  },
+  {
+    "question_id": "Q22",
+    "text": "On a scale of 1 to 2, 1 meaning 'Yes' and 2 meaning 'No', would you be uncomfortable having homosexuals as neighbors?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Mentioned"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Not mentioned"
+      }
+    ]
+  },
+  {
+    "question_id": "Q23",
+    "text": "On a scale of 1 to 2, 1 meaning 'Yes' and 2 meaning 'No', would you be uncomfortable having people of a different religion as neighbors?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Mentioned"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Not mentioned"
+      }
+    ]
+  },
+  {
+    "question_id": "Q29",
+    "text": "On a scale of 1 to 4, 1 meaning 'Strongly agree' and 4 meaning 'Strongly disagree', how strongly do you agree or disagree with the following statement: On the whole, men make better political leaders than women do?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Agree strongly"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Agree"
+      },
+      {
+        "label": "C",
+        "score": 3,
+        "text": "Disagree"
+      },
+      {
+        "label": "D",
+        "score": 4,
+        "text": "Strongly disagree"
+      }
+    ]
+  },
+  {
+    "question_id": "Q30",
+    "text": "On a scale of 1 to 4, 1 meaning 'Strongly agree' and 4 meaning 'Strongly disagree', how strongly do you agree or disagree with the following statement: A university education is more important for a boy than for a girl?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Agree strongly"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Agree"
+      },
+      {
+        "label": "C",
+        "score": 3,
+        "text": "Disagree"
+      },
+      {
+        "label": "D",
+        "score": 4,
+        "text": "Strongly disagree"
+      }
+    ]
+  },
+  {
+    "question_id": "Q31",
+    "text": "On a scale of 1 to 4, 1 meaning 'Strongly agree' and 4 meaning 'Strongly disagree', how strongly do you agree or disagree with the following statement: On the whole, men make better business executives than women do?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Agree strongly"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Agree"
+      },
+      {
+        "label": "C",
+        "score": 3,
+        "text": "Disagree"
+      },
+      {
+        "label": "D",
+        "score": 4,
+        "text": "Strongly disagree"
+      }
+    ]
+  },
+  {
+    "question_id": "Q36",
+    "text": "On a scale of 1 to 5, 1 meaning 'Strongly agree' and 5 meaning 'Strongly disagree', how strongly do you agree or disagree with the following statement: Homosexual couples are as good parents as other couples?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Strongly agree"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Agree"
+      },
+      {
+        "label": "C",
+        "score": 3,
+        "text": "Neither agree nor disagree"
+      },
+      {
+        "label": "D",
+        "score": 4,
+        "text": "Disagree"
+      },
+      {
+        "label": "E",
+        "score": 5,
+        "text": "Disagree strongly"
+      }
+    ]
+  },
+  {
+    "question_id": "Q37",
+    "text": "On a scale of 1 to 5, 1 meaning 'Strongly agree' and 5 meaning 'Strongly disagree', how strongly do you agree or disagree with the following statement: It is a duty towards society to have children?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Agree strongly"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Agree"
+      },
+      {
+        "label": "C",
+        "score": 3,
+        "text": "Neither agree nor disagree"
+      },
+      {
+        "label": "D",
+        "score": 4,
+        "text": "Disagree"
+      },
+      {
+        "label": "E",
+        "score": 5,
+        "text": "Disagree strongly"
+      }
+    ]
+  },
+  {
+    "question_id": "Q43",
+    "text": "On a scale of 1 to 3, 1 meaning 'Good' and 3 meaning 'Bad', how would you rate the following scenario if it were to happen in the near future: Less importance placed on work in our lives?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Good thing"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Don't mind"
+      },
+      {
+        "label": "C",
+        "score": 3,
+        "text": "Bad thing"
+      }
+    ]
+  },
+  {
+    "question_id": "Q44",
+    "text": "On a scale of 1 to 3, 1 meaning 'Good' and 3 meaning 'Bad', how would you rate the following scenario if it in the near future: More emphasis on the development of technology?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Good thing"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Don't mind"
+      },
+      {
+        "label": "C",
+        "score": 3,
+        "text": "Bad thing"
+      }
+    ]
+  },
+  {
+    "question_id": "Q47",
+    "text": "On a scale of 1 to 5, 1 meaning 'Very good' and 5 meaning 'Very poor', all in all, how would you rate your current state of health?",
+    "category": "Happiness and Wellbeing",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Very good"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Good"
+      },
+      {
+        "label": "C",
+        "score": 3,
+        "text": "Fair"
+      },
+      {
+        "label": "D",
+        "score": 4,
+        "text": "Poor"
+      },
+      {
+        "label": "E",
+        "score": 5,
+        "text": "Very poor"
+      }
+    ]
+  },
+  {
+    "question_id": "Q49",
+    "text": "On a scale of 1 to 10, 1 meaning 'Completely dissatisfied' and 10 meaning 'Completely satisfied', all things considered, how would you rate your current life satisfaction?",
+    "category": "Happiness and Wellbeing",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Completely dissatisfied"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "score": 3,
+        "text": "3"
+      },
+      {
+        "label": "D",
+        "score": 4,
+        "text": "4"
+      },
+      {
+        "label": "E",
+        "score": 5,
+        "text": "5"
+      },
+      {
+        "label": "F",
+        "score": 6,
+        "text": "6"
+      },
+      {
+        "label": "G",
+        "score": 7,
+        "text": "7"
+      },
+      {
+        "label": "H",
+        "score": 8,
+        "text": "8"
+      },
+      {
+        "label": "I",
+        "score": 9,
+        "text": "9"
+      },
+      {
+        "label": "J",
+        "score": 10,
+        "text": "Completely satisfied"
+      }
+    ]
+  },
+  {
+    "question_id": "Q51",
+    "text": "On a scale of 1 to 4, 1 meaning 'Often' and 4 meaning 'Never', in the last 12 months, how often you or your family have experienced the following scenario: Gone without enough food to eat?",
+    "category": "Happiness and Wellbeing",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Often"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Sometimes"
+      },
+      {
+        "label": "C",
+        "score": 3,
+        "text": "Rarely"
+      },
+      {
+        "label": "D",
+        "score": 4,
+        "text": "Never"
+      }
+    ]
+  },
+  {
+    "question_id": "Q53",
+    "text": "On a scale of 1 to 4, 1 meaning 'Often' and 4 meaning 'Never', in the last 12 months, how often you or your family have experienced the following scenario: Gone without medicine or medical treatment that you needed?",
+    "category": "Happiness and Wellbeing",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Often"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Sometimes"
+      },
+      {
+        "label": "C",
+        "score": 3,
+        "text": "Rarely"
+      },
+      {
+        "label": "D",
+        "score": 4,
+        "text": "Never"
+      }
+    ]
+  },
+  {
+    "question_id": "Q7",
+    "text": "On a scale of 1 to 2, 1 meaning 'Yes' and 2 meaning 'No', is it especially important that children are encouraged to learn good manners at home?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Important"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Not mentioned"
+      }
+    ]
+  },
+  {
+    "question_id": "Q9",
+    "text": "On a scale of 1 to 2, 1 meaning 'Yes' and 2 meaning 'No', is it especially important that children are encouraged to learn hard work at home?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Important"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Not mentioned"
+      }
+    ]
+  },
+  {
+    "question_id": "Q11",
+    "text": "On a scale of 1 to 2, 1 meaning 'Yes' and 2 meaning 'No', is it especially important that children are encouraged to learn imagination at home?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Important"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Not mentioned"
+      }
+    ]
+  },
+  {
+    "question_id": "Q12",
+    "text": "On a scale of 1 to 2, 1 meaning 'Yes' and 2 meaning 'No', is it especially important that children are encouraged to learn tolerance and respect for other people at home?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Important"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Not mentioned"
+      }
+    ]
+  },
+  {
+    "question_id": "Q13",
+    "text": "On a scale of 1 to 2, 1 meaning 'Yes' and 2 meaning 'No', is it especially important that children are encouraged to learn thrifting and saving money at home?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Important"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Not mentioned"
+      }
+    ]
+  },
+  {
+    "question_id": "Q18",
+    "text": "On a scale of 1 to 2, 1 meaning 'Yes' and 2 meaning 'No', would you be uncomfortable having drug addicts as neighbors?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Mentioned"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Not mentioned"
+      }
+    ]
+  },
+  {
+    "question_id": "Q21",
+    "text": "On a scale of 1 to 2, 1 meaning 'Yes' and 2 meaning 'No', would you be uncomfortable having immigrants/foreign workers as neighbors?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Mentioned"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Not mentioned"
+      }
+    ]
+  },
+  {
+    "question_id": "Q24",
+    "text": "On a scale of 1 to 2, 1 meaning 'Yes' and 2 meaning 'No', would you be uncomfortable having heavy drinkers as neighbors?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Mentioned"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Not mentioned"
+      }
+    ]
+  },
+  {
+    "question_id": "Q25",
+    "text": "On a scale of 1 to 2, 1 meaning 'Yes' and 2 meaning 'No', would you be uncomfortable having unmarried couples living together as neighbors?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Mentioned"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Not mentioned"
+      }
+    ]
+  },
+  {
+    "question_id": "Q27",
+    "text": "On a scale of 1 to 4, 1 meaning 'Strongly agree' and 4 meaning 'Strongly disagree', how strongly do you agree or disagree with the following statement: One of my main goals in life has been to make my parents proud?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Agree strongly"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Agree"
+      },
+      {
+        "label": "C",
+        "score": 3,
+        "text": "Disagree"
+      },
+      {
+        "label": "D",
+        "score": 4,
+        "text": "Strongly disagree"
+      }
+    ]
+  },
+  {
+    "question_id": "Q28",
+    "text": "On a scale of 1 to 4, 1 meaning 'Strongly agree' and 4 meaning 'Strongly disagree', how strongly do you agree or disagree with the following statement: When a mother works for pay, the children suffer?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Agree strongly"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Agree"
+      },
+      {
+        "label": "C",
+        "score": 3,
+        "text": "Disagree"
+      },
+      {
+        "label": "D",
+        "score": 4,
+        "text": "Strongly disagree"
+      }
+    ]
+  },
+  {
+    "question_id": "Q32",
+    "text": "On a scale of 1 to 4, 1 meaning 'Strongly agree' and 4 meaning 'Strongly disagree', how strongly do you agree or disagree with the following statement: Being a housewife is just as fulfilling as working for pay?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Agree strongly"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Agree"
+      },
+      {
+        "label": "C",
+        "score": 3,
+        "text": "Disagree"
+      },
+      {
+        "label": "D",
+        "score": 4,
+        "text": "Strongly disagree"
+      }
+    ]
+  },
+  {
+    "question_id": "Q35",
+    "text": "On a scale of 1 to 5, 1 meaning 'Strongly agree' and 5 meaning 'Strongly disagree', how strongly do you agree or disagree with the following statement: If a woman earns more money than her husband, it's almost certain to cause problems?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Strongly agree"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Agree"
+      },
+      {
+        "label": "C",
+        "score": 3,
+        "text": "Neither agree nor disagree"
+      },
+      {
+        "label": "D",
+        "score": 4,
+        "text": "Disagree"
+      },
+      {
+        "label": "E",
+        "score": 5,
+        "text": "Disagree strongly"
+      }
+    ]
+  },
+  {
+    "question_id": "Q38",
+    "text": "On a scale of 1 to 5, 1 meaning 'Strongly agree' and 5 meaning 'Strongly disagree', how strongly do you agree or disagree with the following statement: Adult children have the duty to provide long-term care for their parents?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Agree strongly"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Agree"
+      },
+      {
+        "label": "C",
+        "score": 3,
+        "text": "Neither agree nor disagree"
+      },
+      {
+        "label": "D",
+        "score": 4,
+        "text": "Disagree"
+      },
+      {
+        "label": "E",
+        "score": 5,
+        "text": "Disagree strongly"
+      }
+    ]
+  },
+  {
+    "question_id": "Q40",
+    "text": "On a scale of 1 to 5, 1 meaning 'Strongly agree' and 5 meaning 'Strongly disagree', how strongly do you agree or disagree with the following statement: Work is a duty towards society?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Strongly agree"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Agree"
+      },
+      {
+        "label": "C",
+        "score": 3,
+        "text": "Neither agree or disagree"
+      },
+      {
+        "label": "D",
+        "score": 4,
+        "text": "Disagree"
+      },
+      {
+        "label": "E",
+        "score": 5,
+        "text": "Strongly disagree"
+      }
+    ]
+  },
+  {
+    "question_id": "Q41",
+    "text": "On a scale of 1 to 5, 1 meaning 'Strongly agree' and 5 meaning 'Strongly disagree', how strongly do you agree or disagree with the following statement: Work should always come first, even if it means less spare time?",
+    "category": "Social Values, Norms, Stereotypes",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Strongly agree"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Agree"
+      },
+      {
+        "label": "C",
+        "score": 3,
+        "text": "Neither agree or disagree"
+      },
+      {
+        "label": "D",
+        "score": 4,
+        "text": "Disagree"
+      },
+      {
+        "label": "E",
+        "score": 5,
+        "text": "Disagree strongly"
+      }
+    ]
+  },
+  {
+    "question_id": "Q46",
+    "text": "On a scale of 1 to 4, 1 meaning 'Very happy' and 4 meaning 'Not at all happy', taking all things together, how would you rate your overall happiness?",
+    "category": "Happiness and Wellbeing",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Very happy"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Quite happy"
+      },
+      {
+        "label": "C",
+        "score": 3,
+        "text": "Not very happy"
+      },
+      {
+        "label": "D",
+        "score": 4,
+        "text": "Not at all happy"
+      }
+    ]
+  },
+  {
+    "question_id": "Q48",
+    "text": "On a scale of 1 to 10, 1 meaning 'None at all' and 10 meaning 'A great deal', how would you rate yourself regarding the idea that you have free choice and control over your life?",
+    "category": "Happiness and Wellbeing",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "None at all"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "score": 3,
+        "text": "3"
+      },
+      {
+        "label": "D",
+        "score": 4,
+        "text": "4"
+      },
+      {
+        "label": "E",
+        "score": 5,
+        "text": "5"
+      },
+      {
+        "label": "F",
+        "score": 6,
+        "text": "6"
+      },
+      {
+        "label": "G",
+        "score": 7,
+        "text": "7"
+      },
+      {
+        "label": "H",
+        "score": 8,
+        "text": "8"
+      },
+      {
+        "label": "I",
+        "score": 9,
+        "text": "9"
+      },
+      {
+        "label": "J",
+        "score": 10,
+        "text": "A great deal"
+      }
+    ]
+  },
+  {
+    "question_id": "Q50",
+    "text": "On a scale of 1 to 10, 1 meaning 'Dissatisfied' and 10 meaning 'Satisfied', how would you rate your satisfaction regarding the current financial situation in your household?",
+    "category": "Happiness and Wellbeing",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Dissatisfied"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "score": 3,
+        "text": "3"
+      },
+      {
+        "label": "D",
+        "score": 4,
+        "text": "4"
+      },
+      {
+        "label": "E",
+        "score": 5,
+        "text": "5"
+      },
+      {
+        "label": "F",
+        "score": 6,
+        "text": "6"
+      },
+      {
+        "label": "G",
+        "score": 7,
+        "text": "7"
+      },
+      {
+        "label": "H",
+        "score": 8,
+        "text": "8"
+      },
+      {
+        "label": "I",
+        "score": 9,
+        "text": "9"
+      },
+      {
+        "label": "J",
+        "score": 10,
+        "text": "Satisfied"
+      }
+    ]
+  },
+  {
+    "question_id": "Q55",
+    "text": "On a scale of 1 to 4, 1 meaning 'Often' and 4 meaning 'Never', in the last 12 months, how often you or your family have experienced the following scenario: Gone without a safe shelter over your head?",
+    "category": "Happiness and Wellbeing",
+    "options": [
+      {
+        "label": "A",
+        "score": 1,
+        "text": "Often"
+      },
+      {
+        "label": "B",
+        "score": 2,
+        "text": "Sometimes"
+      },
+      {
+        "label": "C",
+        "score": 3,
+        "text": "Rarely"
+      },
+      {
+        "label": "D",
+        "score": 4,
+        "text": "Never"
+      }
+    ]
+  }
+]

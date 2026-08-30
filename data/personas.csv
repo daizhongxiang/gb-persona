@@ -1,0 +1,129 @@
+persona_id,population_weight,country_region,age,gender,education,urban_rural,employment
+P001,0.0078125,Pakistan,45,Female,Early childhood education (ISCED 0) / no education,Rural,Housewife not otherwise employed
+P002,0.0078125,Indonesia,19,Female,Upper secondary education (ISCED 3),Urban,Housewife not otherwise employed
+P003,0.0078125,Guatemala,19,Female,Upper secondary education (ISCED 3),Urban,Full time (30 hours a week or more)
+P004,0.0078125,Canada,40,Male,Bachelor or equivalent (ISCED 6),Urban,Full time (30 hours a week or more)
+P005,0.0078125,Turkey,35,Female,Primary education (ISCED 1),Rural,Full time (30 hours a week or more)
+P006,0.0078125,Bolivia,19,Male,Upper secondary education (ISCED 3),Rural,Unemployed
+P007,0.0078125,Pakistan,30,Female,Early childhood education (ISCED 0) / no education,Urban,Housewife not otherwise employed
+P008,0.0078125,Indonesia,29,Female,Upper secondary education (ISCED 3),Rural,Full time (30 hours a week or more)
+P009,0.0078125,Turkey,55,Male,Primary education (ISCED 1),Urban,Part time (less than 30 hours a week)
+P010,0.0078125,Turkey,24,Female,Upper secondary education (ISCED 3),Urban,Student
+P011,0.0078125,356,17,Male,Upper secondary education (ISCED 3),Rural,Student
+P012,0.0078125,Pakistan,40,Male,Upper secondary education (ISCED 3),Rural,Self employed
+P013,0.0078125,Turkey,36,Male,Primary education (ISCED 1),Rural,Full time (30 hours a week or more)
+P014,0.0078125,860,24,Male,Bachelor or equivalent (ISCED 6),Rural,Full time (30 hours a week or more)
+P015,0.0078125,Turkey,25,Male,Upper secondary education (ISCED 3),Urban,Full time (30 hours a week or more)
+P016,0.0078125,Iran,38,Female,Post-secondary non-tertiary education (ISCED 4),Urban,Self employed
+P017,0.0078125,Great Britain,No answer,Female,Lower secondary education (ISCED 2),Rural,Retired/pensioned
+P018,0.0078125,Bolivia,18,Male,Upper secondary education (ISCED 3),Urban,Student
+P019,0.0078125,Indonesia,18,Female,Upper secondary education (ISCED 3),Rural,Student
+P020,0.0078125,China,18,Male,Upper secondary education (ISCED 3),Rural,Student
+P021,0.0078125,Bolivia,20,Male,Upper secondary education (ISCED 3),Urban,Self employed
+P022,0.0078125,Turkey,35,Male,Primary education (ISCED 1),Urban,Full time (30 hours a week or more)
+P023,0.0078125,Iran,18,Male,Post-secondary non-tertiary education (ISCED 4),Rural,Student
+P024,0.0078125,Canada,25,Female,Bachelor or equivalent (ISCED 6),Rural,Student
+P025,0.0078125,Bangladesh,30,Female,Primary education (ISCED 1),Rural,Housewife not otherwise employed
+P026,0.0078125,Turkey,36,Female,Primary education (ISCED 1),Urban,Housewife not otherwise employed
+P027,0.0078125,Turkey,45,Female,Primary education (ISCED 1),Urban,Full time (30 hours a week or more)
+P028,0.0078125,Indonesia,33,Female,Upper secondary education (ISCED 3),Urban,Self employed
+P029,0.0078125,Canada,24,Female,Bachelor or equivalent (ISCED 6),Urban,Student
+P030,0.0078125,China,30,Female,Bachelor or equivalent (ISCED 6),Urban,Part time (less than 30 hours a week)
+P031,0.0078125,Macao SAR,Missing; Not available,Female,Lower secondary education (ISCED 2),Urban,Full time (30 hours a week or more)
+P032,0.0078125,Turkey,45,Male,Primary education (ISCED 1),Rural,Full time (30 hours a week or more)
+P033,0.0078125,Indonesia,18,Male,Upper secondary education (ISCED 3),Rural,Self employed
+P034,0.0078125,Indonesia,20,Female,Upper secondary education (ISCED 3),Rural,Student
+P035,0.0078125,Turkey,55,Female,Early childhood education (ISCED 0) / no education,Urban,Full time (30 hours a week or more)
+P036,0.0078125,Turkey,35,Male,Upper secondary education (ISCED 3),Urban,Full time (30 hours a week or more)
+P037,0.0078125,Guatemala,19,Female,Bachelor or equivalent (ISCED 6),Urban,Student
+P038,0.0078125,Macao SAR,Missing; Not available,Male,Upper secondary education (ISCED 3),Urban,Part time (less than 30 hours a week)
+P039,0.0078125,Canada,33,Male,Bachelor or equivalent (ISCED 6),Urban,Full time (30 hours a week or more)
+P040,0.0078125,Canada,43,Male,Bachelor or equivalent (ISCED 6),Urban,Full time (30 hours a week or more)
+P041,0.0078125,Nigeria,25,Male,Upper secondary education (ISCED 3),Urban,Self employed
+P042,0.0078125,Turkey,55,Male,Early childhood education (ISCED 0) / no education,Rural,Part time (less than 30 hours a week)
+P043,0.0078125,Guatemala,20,Female,Bachelor or equivalent (ISCED 6),Rural,Student
+P044,0.0078125,Pakistan,40,Female,Early childhood education (ISCED 0) / no education,Rural,Housewife not otherwise employed
+P045,0.0078125,Brazil,36,Female,Upper secondary education (ISCED 3),Urban,Full time (30 hours a week or more)
+P046,0.0078125,Canada,38,Male,Bachelor or equivalent (ISCED 6),Urban,Full time (30 hours a week or more)
+P047,0.0078125,Turkey,55,Female,Primary education (ISCED 1),Urban,Full time (30 hours a week or more)
+P048,0.0078125,Turkey,24,Male,Upper secondary education (ISCED 3),Urban,Self employed
+P049,0.0078125,Indonesia,20,Male,Upper secondary education (ISCED 3),Urban,Part time (less than 30 hours a week)
+P050,0.0078125,356,17,Female,Upper secondary education (ISCED 3),Rural,Housewife not otherwise employed
+P051,0.0078125,Pakistan,35,Female,Early childhood education (ISCED 0) / no education,Urban,Housewife not otherwise employed
+P052,0.0078125,Macao SAR,Missing; Not available,Female,Bachelor or equivalent (ISCED 6),Urban,Student
+P053,0.0078125,China,18,Female,Upper secondary education (ISCED 3),Urban,Student
+P054,0.0078125,860,28,Male,Bachelor or equivalent (ISCED 6),Rural,Student
+P055,0.0078125,Thailand,50,Female,Primary education (ISCED 1),Rural,Self employed
+P056,0.0078125,Bangladesh,35,Female,Primary education (ISCED 1),Rural,Housewife not otherwise employed
+P057,0.0078125,Iran,19,Female,Post-secondary non-tertiary education (ISCED 4),Urban,Student
+P058,0.0078125,Indonesia,25,Female,Upper secondary education (ISCED 3),Rural,Housewife not otherwise employed
+P059,0.0078125,356,16,Female,Upper secondary education (ISCED 3),Rural,Student
+P060,0.0078125,356,16,Male,Upper secondary education (ISCED 3),Urban,Student
+P061,0.0078125,Guatemala,19,Male,Bachelor or equivalent (ISCED 6),Urban,Student
+P062,0.0078125,Macao SAR,Missing; Not available,Female,Upper secondary education (ISCED 3),Urban,Part time (less than 30 hours a week)
+P063,0.0078125,Pakistan,30,Male,Upper secondary education (ISCED 3),Urban,Part time (less than 30 hours a week)
+P064,0.0078125,Bolivia,18,Female,Upper secondary education (ISCED 3),Rural,Housewife not otherwise employed
+P065,0.0078125,Nigeria,24,Male,Upper secondary education (ISCED 3),Urban,Self employed
+P066,0.0078125,Tajikistan,19,Male,Upper secondary education (ISCED 3),Rural,Student
+P067,0.0078125,Mongolia,35,Male,Bachelor or equivalent (ISCED 6),Urban,Self employed
+P068,0.0078125,Colombia,18,Male,Upper secondary education (ISCED 3),Urban,Full time (30 hours a week or more)
+P069,0.0078125,Canada,39,Female,Bachelor or equivalent (ISCED 6),Urban,Unemployed
+P070,0.0078125,Brazil,17,Female,Upper secondary education (ISCED 3),Urban,Student
+P071,0.0078125,United States,28,Female,Bachelor or equivalent (ISCED 6),Urban,Full time (30 hours a week or more)
+P072,0.0078125,Pakistan,35,Female,Upper secondary education (ISCED 3),Rural,Housewife not otherwise employed
+P073,0.0078125,China,51,Male,Lower secondary education (ISCED 2),Urban,Self employed
+P074,0.0078125,Thailand,47,Female,Primary education (ISCED 1),Rural,Self employed
+P075,0.0078125,Canada,21,Female,Bachelor or equivalent (ISCED 6),Urban,Student
+P076,0.0078125,China,40,Female,Lower secondary education (ISCED 2),Rural,Part time (less than 30 hours a week)
+P077,0.0078125,Pakistan,50,Female,Early childhood education (ISCED 0) / no education,Urban,Housewife not otherwise employed
+P078,0.0078125,Canada,19,Female,Upper secondary education (ISCED 3),Urban,Full time (30 hours a week or more)
+P079,0.0078125,Indonesia,41,Female,Primary education (ISCED 1),Urban,Housewife not otherwise employed
+P080,0.0078125,Turkey,25,Female,Bachelor or equivalent (ISCED 6),Rural,Housewife not otherwise employed
+P081,0.0078125,Turkey,25,Male,Bachelor or equivalent (ISCED 6),Urban,Full time (30 hours a week or more)
+P082,0.0078125,Guatemala,18,Male,Upper secondary education (ISCED 3),Urban,Part time (less than 30 hours a week)
+P083,0.0078125,China,20,Male,Bachelor or equivalent (ISCED 6),Urban,Student
+P084,0.0078125,Canada,31,Female,Bachelor or equivalent (ISCED 6),Rural,Unemployed
+P085,0.0078125,Canada,35,Female,Bachelor or equivalent (ISCED 6),Urban,Housewife not otherwise employed
+P086,0.0078125,Mongolia,19,Female,Upper secondary education (ISCED 3),Urban,Student
+P087,0.0078125,United States,27,Female,Post-secondary non-tertiary education (ISCED 4),Rural,Part time (less than 30 hours a week)
+P088,0.0078125,Iran,18,Female,Post-secondary non-tertiary education (ISCED 4),Rural,Student
+P089,0.0078125,Turkey,25,Female,Primary education (ISCED 1),Rural,Unemployed
+P090,0.0078125,Canada,32,Male,Bachelor or equivalent (ISCED 6),Urban,Full time (30 hours a week or more)
+P091,0.0078125,Indonesia,38,Female,Upper secondary education (ISCED 3),Urban,Full time (30 hours a week or more)
+P092,0.0078125,China,22,Female,Bachelor or equivalent (ISCED 6),Urban,Student
+P093,0.0078125,Canada,20,Female,Post-secondary non-tertiary education (ISCED 4),Urban,Part time (less than 30 hours a week)
+P094,0.0078125,China,20,Female,Bachelor or equivalent (ISCED 6),Urban,Full time (30 hours a week or more)
+P095,0.0078125,Indonesia,45,Female,Primary education (ISCED 1),Rural,Housewife not otherwise employed
+P096,0.0078125,Indonesia,34,Female,Upper secondary education (ISCED 3),Rural,Self employed
+P097,0.0078125,860,30,Male,Bachelor or equivalent (ISCED 6),Rural,Full time (30 hours a week or more)
+P098,0.0078125,Guatemala,21,Female,Bachelor or equivalent (ISCED 6),Rural,Student
+P099,0.0078125,Canada,29,Female,Bachelor or equivalent (ISCED 6),Rural,Full time (30 hours a week or more)
+P100,0.0078125,Indonesia,38,Male,Upper secondary education (ISCED 3),Urban,Full time (30 hours a week or more)
+P101,0.0078125,Macao SAR,Missing; Not available,Male,Bachelor or equivalent (ISCED 6),Urban,Part time (less than 30 hours a week)
+P102,0.0078125,Turkey,20,Male,Upper secondary education (ISCED 3),Urban,Student
+P103,0.0078125,Bangladesh,28,Female,Lower secondary education (ISCED 2),Rural,Housewife not otherwise employed
+P104,0.0078125,Indonesia,43,Female,Primary education (ISCED 1),Rural,Part time (less than 30 hours a week)
+P105,0.0078125,Ecuador,18,Female,Upper secondary education (ISCED 3),Urban,Part time (less than 30 hours a week)
+P106,0.0078125,Bolivia,20,Female,Bachelor or equivalent (ISCED 6),Urban,Student
+P107,0.0078125,Ethiopia,30,Female,Early childhood education (ISCED 0) / no education,Rural,Self employed
+P108,0.0078125,China,35,Female,Lower secondary education (ISCED 2),Urban,Full time (30 hours a week or more)
+P109,0.0078125,Bolivia,20,Female,Upper secondary education (ISCED 3),Urban,Housewife not otherwise employed
+P110,0.0078125,Indonesia,40,Female,Primary education (ISCED 1),Urban,Self employed
+P111,0.0078125,Great Britain,No answer,Female,Bachelor or equivalent (ISCED 6),Urban,Full time (30 hours a week or more)
+P112,0.0078125,Canada,22,Female,Bachelor or equivalent (ISCED 6),Urban,Full time (30 hours a week or more)
+P113,0.0078125,Indonesia,35,Female,Primary education (ISCED 1),Rural,Full time (30 hours a week or more)
+P114,0.0078125,Nigeria,20,Male,Upper secondary education (ISCED 3),Urban,Unemployed
+P115,0.0078125,Pakistan,25,Female,Upper secondary education (ISCED 3),Rural,Unemployed
+P116,0.0078125,Bangladesh,30,Female,Lower secondary education (ISCED 2),Urban,Housewife not otherwise employed
+P117,0.0078125,Indonesia,32,Female,Upper secondary education (ISCED 3),Rural,Self employed
+P118,0.0078125,Bangladesh,25,Female,Lower secondary education (ISCED 2),Rural,Housewife not otherwise employed
+P119,0.0078125,Indonesia,45,Male,Primary education (ISCED 1),Rural,Full time (30 hours a week or more)
+P120,0.0078125,China,45,Female,Lower secondary education (ISCED 2),Urban,Full time (30 hours a week or more)
+P121,0.0078125,China,46,Female,Lower secondary education (ISCED 2),Rural,Housewife not otherwise employed
+P122,0.0078125,South Korea,60,Female,Upper secondary education (ISCED 3),Urban,Housewife not otherwise employed
+P123,0.0078125,China,52,Female,Lower secondary education (ISCED 2),Urban,Full time (30 hours a week or more)
+P124,0.0078125,United States,26,Female,Bachelor or equivalent (ISCED 6),Urban,Full time (30 hours a week or more)
+P125,0.0078125,Thailand,52,Female,Primary education (ISCED 1),Rural,Self employed
+P126,0.0078125,Canada,27,Female,Bachelor or equivalent (ISCED 6),Urban,Full time (30 hours a week or more)
+P127,0.0078125,Macao SAR,24,Male,Bachelor or equivalent (ISCED 6),Urban,Part time (less than 30 hours a week)
+P128,0.0078125,Turkey,46,Female,Primary education (ISCED 1),Rural,Full time (30 hours a week or more)
